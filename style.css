@@ -1,12 +1,16 @@
 body {
-  background-image: url("Sprinkles.jpg");
-  background-color: hsl(213, 85%, 92%);
+  background-image: url("https://img.freepik.com/free-photo/street-market-sunset_23-2151529972.jpg?semt=ais_hybrid&w=740&q=80");
+  background-color: hsl(29, 68%, 69%);
   background-blend-mode: overlay;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  font-family: Georgia, serif;
+  font-family: "Limelight", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+
 }
 
 html{
@@ -16,7 +20,7 @@ html{
 
 #myCanvas1 {
   border: 1px solid black;
-  background-image: url("image\ copy.png");
+  background-image: url("https://wallpapers.com/images/hd/shelf-background-l3575ybrxq32eh65.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
