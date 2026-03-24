@@ -41,6 +41,7 @@ text("🍓🍒", StrawberryX, 365);
 }
 
 
+
 //labels
 
   textSize(15);
@@ -51,11 +52,13 @@ text("🍓🍒", StrawberryX, 365);
   text(fruitLabels[3], 70, 330);
 }
 
+
 draw = function(){   
 
 }
 
 
 mouseClicked = function(){
+text("🐝", mouseX, mouseY);
 
 }
